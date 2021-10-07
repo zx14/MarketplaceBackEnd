@@ -1,0 +1,11 @@
+{
+  "Type": "Notification",
+  "MessageId": "fbc3e7a4-8cce-5a6b-978c-be7c3d08c605",
+  "TopicArn": "arn:aws:sns:us-east-1:287250355862:aws-mp-entitlement-notification-36bhyxe8r4udkhe1zl1kp8bac",
+  "Message": "{\n\"action\": \"entitlement-updated\",\n\"customer-identifier\": \"9GfvGB7aUGW\",\n\"product-code\": \"36bhyxe8r4udkhe1zl1kp8bac\"\n}",
+  "Timestamp": "2021-10-07T08:27:50.616Z",
+  "SignatureVersion": "1",
+  "Signature": "GpxVrvugpSFzsPtLvZ8QZX8LpZ3VoF0ohmlZ6pGD3OI4/zTqtXFjF3C6fblpDelDPxVmmYoDULoSKbk3HkxArIN4Ms083tqTgBbQ582eCc1c5Z7Z6DvT66zxEBFjHVZQKq3GavMTBmG8k6dk51xYH8z1j+IBdakXSR01vJ7iTYtPhQfinqxRmoDdS0pqClImmeS5YODLYCwEiF7Lp0SjXtIAttQLX67PzMfDsouz4Vnssfa/kySFX4grnljJQi1ecWDDc4hPChn6eGkmGsZ/ImfwBPmFZOjFe6jGPJFkWB28Nhh7Cr3yvbdQqT7nqqjCljdCYZt7JuTQALx4eI/1LQ==",
+  "SigningCertURL": "https://sns.us-east-1.amazonaws.com/SimpleNotificationService-7ff5318490ec183fbaddaa2a969abfda.pem",
+  "UnsubscribeURL": "https://sns.us-east-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-1:287250355862:aws-mp-entitlement-notification-36bhyxe8r4udkhe1zl1kp8bac:b6c8cedf-5494-4388-a97d-fd72d322e359"
+}

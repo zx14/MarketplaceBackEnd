@@ -1,0 +1,47 @@
+{
+  "Entitlements": [
+    {
+      "ProductCode": "36bhyxe8r4udkhe1zl1kp8bac",
+      "Dimension": "Ports_10G",
+      "CustomerIdentifier": "9GfvGB7aUGW",
+      "Value": {
+        "IntegerValue": 1
+      },
+      "ExpirationDate": datetime.datetime(2021,
+      11,
+      7,
+      16,
+      27,
+      48,
+      205000,
+      tzinfo=tzlocal())
+    },
+    {
+      "ProductCode": "36bhyxe8r4udkhe1zl1kp8bac",
+      "Dimension": "VC_Medium",
+      "CustomerIdentifier": "9GfvGB7aUGW",
+      "Value": {
+        "IntegerValue": 1
+      },
+      "ExpirationDate": datetime.datetime(2021,
+      11,
+      7,
+      16,
+      27,
+      48,
+      205000,
+      tzinfo=tzlocal())
+    }
+  ],
+  "ResponseMetadata": {
+    "RequestId": "472f65d2-f955-4b95-a545-362a87817f55",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "x-amzn-requestid": "472f65d2-f955-4b95-a545-362a87817f55",
+      "content-type": "application/x-amz-json-1.1",
+      "content-length": "404",
+      "date": "Thu, 07 Oct 2021 13:13:24 GMT"
+    },
+    "RetryAttempts": 0
+  }
+}

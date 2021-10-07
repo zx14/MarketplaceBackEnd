@@ -1,0 +1,24 @@
+{
+  "Entitlements": [
+    {
+      "ProductCode": "36bhyxe8r4udkhe1zl1kp8bac",
+      "Dimension": "VC_Small",
+      "CustomerIdentifier": "9GfvGB7aUGW",
+      "Value": {
+        "IntegerValue": 1
+      },
+      "ExpirationDate": datetime.datetime(2021, 11, 7, 16, 27, 48, 205000, tzinfo=tzlocal())
+    }
+  ],
+  "ResponseMetadata": {
+    "RequestId": "1abf52d4-0853-42d0-8758-32857b97f3c5",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "x-amzn-requestid": "1abf52d4-0853-42d0-8758-32857b97f3c5",
+      "content-type": "application/x-amz-json-1.1",
+      "content-length": "210",
+      "date": "Thu, 07 Oct 2021 12:35:50 GMT"
+    },
+    "RetryAttempts": 0
+  }
+}
